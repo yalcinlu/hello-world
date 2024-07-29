@@ -14,3 +14,5 @@ Bir de üç astirikli olsun bakalım. ***üçlü***
 # Temmuz 29 saat 6.53
 
 # saat değişti 6.57
+
+Bu kendi dosyam. Bunu tablette edit ediyorum. Nasıl olacağına sonra bakacağım. Şu anda saat 7:45. 
