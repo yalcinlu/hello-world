@@ -11,5 +11,3 @@ Buraya italik bir *kedi* yazalım
 Bir de **kalın** yazı yazalım. 
 Bir de üç astirikli olsun bakalım. ***üçlü***
 
-# Buraya bazı eklemeler yapıyorum 
-Maksat git denemesi yapmak. 
